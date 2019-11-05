@@ -1,1 +1,53 @@
-<mxfile host="www.draw.io" modified="2019-11-05T08:48:23.497Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" version="12.2.0" etag="OP0F6V0wEyyoObJHQQpj" type="github"><diagram id="vlGuIUt0R7jac3KrcSdy">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-11-05T08:53:25.727Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="gt46I9iiUxUTOOxMKaAC" version="12.2.0" type="github" pages="1">
+  <diagram id="vlGuIUt0R7jac3KrcSdy" name="Page-1">
+    <mxGraphModel dx="1520" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="fjabtdLq7Zrg2fPQEvaX-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fjabtdLq7Zrg2fPQEvaX-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="300" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fjabtdLq7Zrg2fPQEvaX-1" value="退到后台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="270" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="fjabtdLq7Zrg2fPQEvaX-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fjabtdLq7Zrg2fPQEvaX-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="300" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fjabtdLq7Zrg2fPQEvaX-8" value="是" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="fjabtdLq7Zrg2fPQEvaX-6">
+          <mxGeometry x="-0.2" y="2" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fjabtdLq7Zrg2fPQEvaX-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fjabtdLq7Zrg2fPQEvaX-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="415" y="420" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fjabtdLq7Zrg2fPQEvaX-13" value="否" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="fjabtdLq7Zrg2fPQEvaX-10">
+          <mxGeometry x="-0.25" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fjabtdLq7Zrg2fPQEvaX-4" value="后续是否再回前台继续播放" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="260" width="130" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="fjabtdLq7Zrg2fPQEvaX-7" value="同一次播放，继续播放，不上报结束事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="270" width="170" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="fjabtdLq7Zrg2fPQEvaX-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fjabtdLq7Zrg2fPQEvaX-11" target="fjabtdLq7Zrg2fPQEvaX-12">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="fjabtdLq7Zrg2fPQEvaX-11" value="系统或者用户主动杀死" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="328" y="420" width="170" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="fjabtdLq7Zrg2fPQEvaX-12" value="下次启动APP时，进行补充播放结束事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="328" y="550" width="170" height="60" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
