@@ -1,1 +1,28 @@
-<mxfile host="www.draw.io" modified="2020-01-12T09:47:08.283Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" version="12.5.1" etag="Ncjb8bJBM4R1sFw7iCyh" type="github"><diagram id="LJH6QVNwrjhhdbq2CqlV">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-01-12T09:51:46.338Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="nFPPUUM1lF1KGZH0JAmF" version="12.5.1" type="github">
+  <diagram id="LJH6QVNwrjhhdbq2CqlV" name="Page-1">
+    <mxGraphModel dx="1520" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="RGDdq82KqoYE7V8oH3Jk-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="180" width="250" height="360" as="geometry"/>
+        </mxCell>
+        <mxCell id="RGDdq82KqoYE7V8oH3Jk-1" value="APP代码" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="270" width="60" height="130" as="geometry"/>
+        </mxCell>
+        <mxCell id="RGDdq82KqoYE7V8oH3Jk-2" value="APP" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="270" width="50" height="130" as="geometry"/>
+        </mxCell>
+        <mxCell id="RGDdq82KqoYE7V8oH3Jk-3" value="播放Loop" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="270" width="50" height="130" as="geometry"/>
+        </mxCell>
+        <mxCell id="RGDdq82KqoYE7V8oH3Jk-4" value="消息队列" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="200" width="130" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="RGDdq82KqoYE7V8oH3Jk-5" value="消息队列" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="430" width="130" height="40" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
